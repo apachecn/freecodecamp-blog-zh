@@ -1,0 +1,32 @@
+<!doctype html>
+<html lang="en">
+
+<head>
+  <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <meta name="referrer" content="always">
+
+  <title>Page not found</title>
+
+  <style>
+    body {
+      background-color: #f4f6f6;
+      width: 100vw;
+      height: 100vh;
+    }
+  </style>
+
+  <script>
+    
+  </script>
+</head>
+
+<body>
+  <div class="page-404">
+    <h2>Page was not found!</h2>
+    <p>Looks like you've followed a broken link or entered a URL that doesn't exist on this site.</p>
+    <p>Go <a href="/">home</a>.</p>
+  </div>
+</body>
+
+</html>

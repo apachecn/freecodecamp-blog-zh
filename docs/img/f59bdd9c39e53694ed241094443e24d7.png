@@ -1,0 +1,222 @@
+<!DOCTYPE html><html lang="en"><head>
+    <script defer="" src="https://www.googletagmanager.com/gtag/js?id=UA-122494709-1"></script>
+    <script>
+        window.dataLayer = window.dataLayer || []
+        function gtag() {
+            dataLayer.push(arguments)
+        }
+        gtag('js', new Date())
+        gtag('config', 'UA-122494709-1')
+    </script>
+    <title>deeplizard - Not Found</title>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin="">
+    <link rel="preload" as="style" href="https://fonts.googleapis.com/css2?family=Montserrat:ital,wght@0,300;0,400;0,600;0,700;0,800;1,300;1,400;1,600;1,700;1,800&amp;family=Noto+Serif:ital@0;1&amp;family=Open+Sans:ital,wght@0,300;0,400;0,600;0,700;0,800;1,300;1,400;1,600;1,700;1,800&amp;display=swap">
+    <link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Montserrat:ital,wght@0,300;0,400;0,600;0,700;0,800;1,300;1,400;1,600;1,700;1,800&amp;family=Noto+Serif:ital@0;1&amp;family=Open+Sans:ital,wght@0,300;0,400;0,600;0,700;0,800;1,300;1,400;1,600;1,700;1,800&amp;display=swap" media="print" onload="this.media='all'">
+    <link rel="stylesheet" href="https://fonts.googleapis.com/icon?family=Material+Icons|Material+Icons+Outlined">
+    <noscript><link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Montserrat:ital,wght@0,300;0,400;0,600;0,700;0,800;1,300;1,400;1,600;1,700;1,800&amp;family=Noto+Serif:ital@0;1&amp;family=Open+Sans:ital,wght@0,300;0,400;0,600;0,700;0,800;1,300;1,400;1,600;1,700;1,800&amp;display=swap"/></noscript>
+
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap@5.0.2/dist/css/bootstrap.min.css" integrity="sha256-djO3wMl9GeaC/u6K+ic4Uj/LKhRUSlUFcsruzS7v5ms=" crossorigin="">
+    <link rel="stylesheet" href="/assets/css/ca41a5b5.css">
+    
+    <script src="/assets/js/4e14a3dd.js" data-global="true"></script>
+    <script src="/assets/js/1d23033d.js" data-global="true" defer=""></script>
+    <script src="/assets/js/e143ea82.js" data-name="particles-js" defer=""></script>
+	
+    
+    <link rel="icon" href="/assets/png/4424f999.png">
+    <meta name="twitter:card" content="summary_large_image">
+    <meta name="twitter:site" content="@deeplizard">
+    <meta name="twitter:creator" content="@deeplizard">
+
+    
+    <link rel="canonical" href="https://deeplizard.com/error/404">
+    <meta property="og:url" content="https://deeplizard.com/error/404">
+    <meta property="og:type" content="article">
+    <meta property="og:title" content="deeplizard - Building Collective Intelligence">
+    <meta property="og:image" content="https://deeplizard.com/assets/jpg/ea485d6c.jpg">
+    <meta property="og:description" content="At deeplizard, we're building collective intelligence through the creation of high-quality courses on advanced topics.">
+    <meta name="description" content="At deeplizard, we're building collective intelligence through the creation of high-quality courses on advanced topics.">
+    
+    <style>
+        .top-bar {
+            background-color: transparent;
+        }
+        
+        #particles {
+            position: absolute;
+            top: 0rem;
+            width: 100%;
+            height: 100vh;
+            z-index: -1;
+        }
+        
+        .heading {
+            text-align: center;
+            padding: 0;
+            margin: 0rem 0rem 5rem 0rem;
+        }
+        
+        .heading .title {
+            font-size: 2rem;
+            font-weight: 800;
+            font-family: 'Open Sans', sans-serif;
+            margin-bottom: .25rem;
+            line-height: 3rem;
+        }
+        
+        .heading .subtitle {
+            font-family: "Noto Serif", serif;
+            font-style: italic;
+            font-size: 1rem;
+            line-height: 1.5rem;
+            margin: 0;
+            padding: 0;
+        }
+        
+        @media (min-width: 768px) {
+            .heading .title {
+                font-size: 5rem;
+                line-height: 4.5rem;
+                margin-bottom: .5rem;
+            }
+            
+            .heading .subtitle {
+                font-size: 1.2rem;
+            }
+        }
+        
+        footer {
+            box-shadow: none;
+        }
+        
+        footer #back-to-the-top {
+            display: none;
+        }
+    </style>
+</head>
+
+<body>
+    
+    <header>
+        <div class="top-bar clearfix">
+            <div class="container-lg">
+                <div class="float-sm-start">
+                    <ul class="list-inline mb-0 links">
+                        <li class="list-inline-item">
+                            <a href="https://youtube.com/deeplizard" rel="noreferrer">YouTube</a>
+                        </li>
+                        <li class="list-inline-item">
+                            <a href="https://neurohacker.com/shop?rfsn=6488344.d171c6">Neurohacker</a>
+                        </li>
+                        <li class="list-inline-item">
+                            <a href="/resource/pavq7noze2">Conv Demo</a>
+                        </li>
+                        <li class="list-inline-item">
+                            <a href="/resource/pavq7noze3">Max-Pool Demo</a>
+                        </li>
+                        <li class="list-inline-item">
+                            <a href="/course/txtcpailzrd">NLP Intro for Text<sup style="font-size: 75%;"> NEW</sup></a>
+                        </li>
+                    </ul>
+                </div>
+                <div class="float-sm-end logged-in hide">
+                    <ul class="list-inline mb-0 links">
+                        <li class="list-inline-item profile">
+                            <a href="/account/profile">Profile</a>
+                        </li>
+                        <li class="list-inline-item logout">
+                            <a href="/account/logout">Logout</a>
+                        </li>
+                    </ul>
+                </div>
+                <div class="float-sm-end logged-out hide">
+                    <ul class="list-inline mb-0 links">
+                        <li class="list-inline-item login">
+                            <a href="/account/login">Login</a>
+                        </li>
+                    </ul>
+                </div>
+            </div>
+        </div>
+        <nav class="navbar navbar-light navbar-expand-lg">
+            <div class="container-lg">
+                <a class="navbar-brand" href="/">
+                    <img src="/assets/png/4424f999.png" height="30" width="30" alt="deeplizard logo">
+                    <b>DEEPLIZARD</b>
+                </a>
+                <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#nav-dropdown" aria-controls="nav-dropdown" aria-expanded="false" aria-label="menu button">
+                    <span class="navbar-toggler-icon"></span>
+                </button>
+                <div id="nav-dropdown" class="navbar-collapse collapse">
+                    <ul class="navbar-nav ms-auto">
+                        <li class="nav-item">
+                            <a class="nav-link" href="/courses">Courses</a>
+                        </li>
+                        <li class="nav-item">
+                            <a class="nav-link" href="/resources">Code</a>
+                        </li>
+                        <li class="nav-item">
+                            <a class="nav-link" href="/hivemind">Hivemind</a>
+                        </li>
+                        <li class="nav-item">
+                            <a class="nav-link" href="https://youtube.com/deeplizardvlog" target="_blank" rel="noreferrer">Vlog</a>
+                        </li>
+                    </ul>
+                </div>
+            </div>
+        </nav>
+    </header>
+    
+    <main class="container-fluid ps-0 pe-0">
+        
+        <div id="particles" class="particles"></div>
+        
+        <section class="heading">
+            <div class="container">
+                <h1 class="title">404</h1>
+                <h2>FILE NOT FOUND</h2>
+            </div>
+        </section>
+    </main>
+    
+    <footer>
+        <div class="container">
+            <div class="row align-items-center">
+                <div class="col-10 float-sm-start text-muted">
+                    <ul class="list-inline mb-0 links">
+                        <li class="list-inline-item text-uppercase">
+                            ©deeplizard
+                        </li>
+                        <li class="list-inline-item">
+                            <a href="https://youtube.com/deeplizard" rel="noreferrer">YouTube</a>
+                        </li>
+                        <li class="list-inline-item">
+                            <a href="https://youtube.com/deeplizardvlog" rel="noreferrer">Vlog</a>
+                        </li>
+                        <li class="list-inline-item">
+                            <a href="https://www.youtube.com/channel/UCdCxHNCexDrAx78VfAuyKiA" rel="noreferrer">Fitness</a>
+                        </li>
+                        <li class="list-inline-item">
+                            <a href="/hivemind">Hivemind</a>
+                        </li>
+                        <li class="list-inline-item">
+                            <a href="/privacy">Privacy</a>
+                        </li>
+                        <li class="list-inline-item">
+                            <a href="/terms">Terms</a>
+                        </li>
+                    </ul>
+                </div>
+                <div class="col-2 text-start text-sm-end">
+                    <i id="back-to-the-top" class="material-icons">keyboard_arrow_up</i>
+                </div>
+            </div>
+        </div>
+    </footer>
+    
+
+
+<script type="module" src="/assets/js/08856786.js" data-name="deeplizard-js"></script></body></html>

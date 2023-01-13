@@ -1,0 +1,558 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   contentScriptType="application/ecmascript"
+   contentStyleType="text/css"
+   height="539px"
+   preserveAspectRatio="none"
+   style="width:1273px;height:539px;"
+   version="1.1"
+   viewBox="0 0 1273 539"
+   width="1273px"
+   zoomAndPan="magnify"
+   id="svg155"
+   sodipodi:docname="activation-events.svg"
+   inkscape:version="1.0.1 (3bc2e813f5, 2020-09-07)">
+  <metadata
+     id="metadata159">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <sodipodi:namedview
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1"
+     objecttolerance="10"
+     gridtolerance="10"
+     guidetolerance="10"
+     inkscape:pageopacity="0"
+     inkscape:pageshadow="2"
+     inkscape:window-width="1366"
+     inkscape:window-height="705"
+     id="namedview157"
+     showgrid="false"
+     inkscape:zoom="0.81853889"
+     inkscape:cx="630.91231"
+     inkscape:cy="269.5"
+     inkscape:window-x="-8"
+     inkscape:window-y="-8"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="g153"
+     inkscape:document-rotation="0" />
+  <defs
+     id="defs11">
+    <filter
+       height="300%"
+       id="fur6px6r8qsh2"
+       width="300%"
+       x="-1"
+       y="-1">
+      <feGaussianBlur
+         result="blurOut"
+         stdDeviation="2.0"
+         id="feGaussianBlur2" />
+      <feColorMatrix
+         in="blurOut"
+         result="blurOut2"
+         type="matrix"
+         values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 .4 0"
+         id="feColorMatrix4" />
+      <feOffset
+         dx="4.0"
+         dy="4.0"
+         in="blurOut2"
+         result="blurOut3"
+         id="feOffset6" />
+      <feBlend
+         in="SourceGraphic"
+         in2="blurOut3"
+         mode="normal"
+         id="feBlend8" />
+    </filter>
+  </defs>
+  <g
+     font-size="16"
+     font-family="sans-serif"
+     id="g153">
+    <line
+       style="stroke: #A80036; stroke-width: 1.0; stroke-dasharray: 5.0,5.0;"
+       x1="23"
+       x2="23"
+       y1="88.2969"
+       y2="454.7578"
+       id="line13" />
+    <line
+       style="stroke: #A80036; stroke-width: 1.0; stroke-dasharray: 5.0,5.0;"
+       x1="295.5"
+       x2="295.5"
+       y1="88.2969"
+       y2="454.7578"
+       id="line15" />
+    <line
+       style="stroke: #A80036; stroke-width: 1.0; stroke-dasharray: 5.0,5.0;"
+       x1="1042.5"
+       x2="1042.5"
+       y1="88.2969"
+       y2="454.7578"
+       id="line17" />
+    <line
+       style="stroke: #A80036; stroke-width: 1.0; stroke-dasharray: 5.0,5.0;"
+       x1="1197.5"
+       x2="1197.5"
+       y1="88.2969"
+       y2="454.7578"
+       id="line19" />
+    <text
+       fill="#000000"
+       x="5"
+       y="84.9951"
+       id="text21">User</text>
+    <ellipse
+       cx="23.5"
+       cy="15"
+       fill="#FEFECE"
+       filter="url(#fur6px6r8qsh2)"
+       rx="8"
+       ry="8"
+       style="stroke: #A80036; stroke-width: 2.0;"
+       id="ellipse23" />
+    <path
+       d="M23.5,23 L23.5,50 M10.5,31 L36.5,31 M23.5,50 L10.5,65 M23.5,50 L36.5,65 "
+       fill="none"
+       filter="url(#fur6px6r8qsh2)"
+       style="stroke: #A80036; stroke-width: 2.0;"
+       id="path25" />
+    <text
+       fill="#000000"
+       x="5"
+       y="466.7529"
+       id="text27">User</text>
+    <ellipse
+       cx="23.5"
+       cy="480.0547"
+       fill="#FEFECE"
+       filter="url(#fur6px6r8qsh2)"
+       rx="8"
+       ry="8"
+       style="stroke: #A80036; stroke-width: 2.0;"
+       id="ellipse29" />
+    <path
+       d="M23.5,488.0547 L23.5,515.0547 M10.5,496.0547 L36.5,496.0547 M23.5,515.0547 L10.5,530.0547 M23.5,515.0547 L36.5,530.0547 "
+       fill="none"
+       filter="url(#fur6px6r8qsh2)"
+       style="stroke: #A80036; stroke-width: 2.0;"
+       id="path31" />
+    <rect
+       fill="#FEFECE"
+       filter="url(#fur6px6r8qsh2)"
+       height="30.2969"
+       style="stroke: #A80036; stroke-width: 1.5;"
+       width="74"
+       x="256.5"
+       y="53"
+       id="rect33" />
+    <text
+       fill="#000000"
+       x="263.5"
+       y="72.9951"
+       id="text35"
+       style="-inkscape-font-specification:'sans-serif, Normal';font-family:sans-serif;font-weight:normal;font-style:normal;font-stretch:normal;font-variant:normal;font-size:13.33333333px;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;">VS Code</text>
+    <rect
+       fill="#FEFECE"
+       filter="url(#fur6px6r8qsh2)"
+       height="30.2969"
+       style="stroke: #A80036; stroke-width: 1.5;"
+       width="74"
+       x="256.5"
+       y="453.7578"
+       id="rect37" />
+    <text
+       fill="#000000"
+       x="263.5"
+       y="473.7529"
+       id="text39"
+       style="-inkscape-font-specification:'sans-serif, Normal';font-family:sans-serif;font-weight:normal;font-style:normal;font-stretch:normal;font-variant:normal;font-size:13.33333333px;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;">VS Code</text>
+    <rect
+       fill="#FEFECE"
+       filter="url(#fur6px6r8qsh2)"
+       height="30.2969"
+       style="stroke: #A80036; stroke-width: 1.5;"
+       width="156"
+       x="962.5"
+       y="53"
+       id="rect41" />
+    <text
+       fill="#000000"
+       x="969.5"
+       y="72.9951"
+       id="text43"
+       style="-inkscape-font-specification:'sans-serif, Normal';font-family:sans-serif;font-weight:normal;font-style:normal;font-stretch:normal;font-variant:normal;font-size:13.33333333px;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;">VS Code Extensions</text>
+    <rect
+       fill="#FEFECE"
+       filter="url(#fur6px6r8qsh2)"
+       height="30.2969"
+       style="stroke: #A80036; stroke-width: 1.5;"
+       width="156"
+       x="962.5"
+       y="453.7578"
+       id="rect45" />
+    <text
+       fill="#000000"
+       x="969.5"
+       y="473.7529"
+       id="text47"
+       style="-inkscape-font-specification:'sans-serif, Normal';font-family:sans-serif;font-weight:normal;font-style:normal;font-stretch:normal;font-variant:normal;font-size:13.33333333px;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;">VS Code Extensions</text>
+    <rect
+       fill="#FEFECE"
+       filter="url(#fur6px6r8qsh2)"
+       height="30.2969"
+       style="stroke: #A80036; stroke-width: 1.5;"
+       width="127"
+       x="1132.5"
+       y="53"
+       id="rect49" />
+    <text
+       fill="#000000"
+       x="1139.5"
+       y="72.9951"
+       id="text51"
+       style="-inkscape-font-specification:'sans-serif, Normal';font-family:sans-serif;font-weight:normal;font-style:normal;font-stretch:normal;font-variant:normal;font-size:13.33333333px;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;">User Extensions</text>
+    <rect
+       fill="#FEFECE"
+       filter="url(#fur6px6r8qsh2)"
+       height="30.2969"
+       style="stroke: #A80036; stroke-width: 1.5;"
+       width="127"
+       x="1132.5"
+       y="453.7578"
+       id="rect53" />
+    <text
+       fill="#000000"
+       x="1139.5"
+       y="473.7529"
+       id="text55"
+       style="-inkscape-font-specification:'sans-serif, Normal';font-family:sans-serif;font-weight:normal;font-style:normal;font-stretch:normal;font-variant:normal;font-size:13.33333333px;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;">User Extensions</text>
+    <polygon
+       fill="#A80036"
+       points="283.5,115.4297,293.5,119.4297,283.5,123.4297,287.5,119.4297"
+       style="stroke: #A80036; stroke-width: 1.0;"
+       id="polygon57" />
+    <line
+       style="stroke: #A80036; stroke-width: 1.0;"
+       x1="23.5"
+       x2="289.5"
+       y1="119.4297"
+       y2="119.4297"
+       id="line59" />
+    <text
+       fill="#000000"
+       font-weight="bold"
+       x="30.5"
+       y="114.3638"
+       id="text61">1</text>
+    <text
+       fill="#000000"
+       x="43.5"
+       y="114.3638"
+       id="text63">Launch application</text>
+    <line
+       style="stroke: #A80036; stroke-width: 1.0;"
+       x1="295.5"
+       x2="337.5"
+       y1="148.5625"
+       y2="148.5625"
+       id="line65" />
+    <line
+       style="stroke: #A80036; stroke-width: 1.0;"
+       x1="337.5"
+       x2="337.5"
+       y1="148.5625"
+       y2="161.5625"
+       id="line67" />
+    <line
+       style="stroke: #A80036; stroke-width: 1.0;"
+       x1="296.5"
+       x2="337.5"
+       y1="161.5625"
+       y2="161.5625"
+       id="line69" />
+    <polygon
+       fill="#A80036"
+       points="306.5,157.5625,296.5,161.5625,306.5,165.5625,302.5,161.5625"
+       style="stroke: #A80036; stroke-width: 1.0;"
+       id="polygon71" />
+    <text
+       fill="#000000"
+       font-weight="bold"
+       x="302.5"
+       y="143.4966"
+       id="text73">2</text>
+    <text
+       fill="#000000"
+       x="315.5"
+       y="143.4966"
+       id="text75">Fire startup Activation Event (*)</text>
+    <polygon
+       fill="#A80036"
+       points="1030.5,186.6953,1040.5,190.6953,1030.5,194.6953,1034.5,190.6953"
+       style="stroke: #A80036; stroke-width: 1.0;"
+       id="polygon77" />
+    <line
+       style="stroke: #A80036; stroke-width: 1.0;"
+       x1="295.5"
+       x2="1036.5"
+       y1="190.6953"
+       y2="190.6953"
+       id="line79" />
+    <text
+       fill="#000000"
+       font-weight="bold"
+       x="302.5"
+       y="185.6294"
+       id="text81">3</text>
+    <text
+       fill="#000000"
+       x="314.5"
+       y="185.62939"
+       id="text83">Activate &quot;built-in&quot; VS Code extensions with startup Activation Event registered (Git..etc)</text>
+    <polygon
+       fill="#A80036"
+       points="306.5,215.8281,296.5,219.8281,306.5,223.8281,302.5,219.8281"
+       style="stroke: #A80036; stroke-width: 1.0;"
+       id="polygon85" />
+    <line
+       style="stroke: #A80036; stroke-width: 1.0; stroke-dasharray: 2.0,2.0;"
+       x1="300.5"
+       x2="1041.5"
+       y1="219.8281"
+       y2="219.8281"
+       id="line87" />
+    <text
+       fill="#000000"
+       font-weight="bold"
+       x="312.5"
+       y="214.7622"
+       id="text89">4</text>
+    <text
+       fill="#000000"
+       x="325.5"
+       y="214.7622"
+       id="text91">VS Code extensions loaded</text>
+    <polygon
+       fill="#A80036"
+       points="1186,244.9609,1196,248.9609,1186,252.9609,1190,248.9609"
+       style="stroke: #A80036; stroke-width: 1.0;"
+       id="polygon93" />
+    <line
+       style="stroke: #A80036; stroke-width: 1.0;"
+       x1="295.5"
+       x2="1192"
+       y1="248.9609"
+       y2="248.9609"
+       id="line95" />
+    <text
+       fill="#000000"
+       font-weight="bold"
+       x="302.5"
+       y="243.895"
+       id="text97">5</text>
+    <text
+       fill="#000000"
+       x="315.5"
+       y="243.895"
+       id="text99">Activate user VS Code extensions with startup Activation Event registered (ESLint, GitLens..etc)</text>
+    <polygon
+       fill="#A80036"
+       points="306.5,274.0938,296.5,278.0938,306.5,282.0938,302.5,278.0938"
+       style="stroke: #A80036; stroke-width: 1.0;"
+       id="polygon101" />
+    <line
+       style="stroke: #A80036; stroke-width: 1.0; stroke-dasharray: 2.0,2.0;"
+       x1="300.5"
+       x2="1197"
+       y1="278.0938"
+       y2="278.0938"
+       id="line103" />
+    <text
+       fill="#000000"
+       font-weight="bold"
+       x="312.5"
+       y="273.0278"
+       id="text105">6</text>
+    <text
+       fill="#000000"
+       x="325.5"
+       y="273.0278"
+       id="text107">User extensions loaded</text>
+    <polygon
+       fill="#A80036"
+       points="34.5,303.2266,24.5,307.2266,34.5,311.2266,30.5,307.2266"
+       style="stroke: #A80036; stroke-width: 1.0;"
+       id="polygon109" />
+    <line
+       style="stroke: #A80036; stroke-width: 1.0; stroke-dasharray: 2.0,2.0;"
+       x1="28.5"
+       x2="294.5"
+       y1="307.2266"
+       y2="307.2266"
+       id="line111" />
+    <text
+       fill="#000000"
+       font-weight="bold"
+       x="40.5"
+       y="302.1606"
+       id="text113">7</text>
+    <text
+       fill="#000000"
+       x="53.5"
+       y="302.16061"
+       id="text115">Application ready to use</text>
+    <line
+       style="stroke: #A80036; stroke-width: 1.0;"
+       x1="295.5"
+       x2="337.5"
+       y1="336.3594"
+       y2="336.3594"
+       id="line117" />
+    <line
+       style="stroke: #A80036; stroke-width: 1.0;"
+       x1="337.5"
+       x2="337.5"
+       y1="336.3594"
+       y2="349.3594"
+       id="line119" />
+    <line
+       style="stroke: #A80036; stroke-width: 1.0;"
+       x1="296.5"
+       x2="337.5"
+       y1="349.3594"
+       y2="349.3594"
+       id="line121" />
+    <polygon
+       fill="#A80036"
+       points="306.5,345.3594,296.5,349.3594,306.5,353.3594,302.5,349.3594"
+       style="stroke: #A80036; stroke-width: 1.0;"
+       id="polygon123" />
+    <text
+       fill="#000000"
+       font-weight="bold"
+       x="302.5"
+       y="331.2935"
+       id="text125">8</text>
+    <text
+       fill="#000000"
+       x="315.5"
+       y="331.2935"
+       id="text127">Fire 'onStartUpFinished' Activation Event</text>
+    <polygon
+       fill="#A80036"
+       points="1186,374.4922,1196,378.4922,1186,382.4922,1190,378.4922"
+       style="stroke: #A80036; stroke-width: 1.0;"
+       id="polygon129" />
+    <line
+       style="stroke: #A80036; stroke-width: 1.0;"
+       x1="295.5"
+       x2="1192"
+       y1="378.4922"
+       y2="378.4922"
+       id="line131" />
+    <text
+       fill="#000000"
+       font-weight="bold"
+       x="302.5"
+       y="373.4263"
+       id="text133">9</text>
+    <text
+       fill="#000000"
+       x="315.5"
+       y="373.4263"
+       id="text135">Activate user extensions with 'onStartUpFinished' Activation Event registered (Prettier..etc)</text>
+    <polygon
+       fill="#A80036"
+       points="306.5,403.625,296.5,407.625,306.5,411.625,302.5,407.625"
+       style="stroke: #A80036; stroke-width: 1.0;"
+       id="polygon137" />
+    <line
+       style="stroke: #A80036; stroke-width: 1.0; stroke-dasharray: 2.0,2.0;"
+       x1="300.5"
+       x2="1197"
+       y1="407.625"
+       y2="407.625"
+       id="line139" />
+    <text
+       fill="#000000"
+       font-weight="bold"
+       x="312.5"
+       y="402.5591"
+       id="text141">10</text>
+    <text
+       fill="#000000"
+       x="335.5"
+       y="402.5591"
+       id="text143">User extensions loaded</text>
+    <polygon
+       fill="#A80036"
+       points="34.5,432.7578,24.5,436.7578,34.5,440.7578,30.5,436.7578"
+       style="stroke: #A80036; stroke-width: 1.0;"
+       id="polygon145" />
+    <line
+       style="stroke: #A80036; stroke-width: 1.0; stroke-dasharray: 2.0,2.0;"
+       x1="28.5"
+       x2="294.5"
+       y1="436.7578"
+       y2="436.7578"
+       id="line147" />
+    <text
+       fill="#000000"
+       font-weight="bold"
+       x="40.5"
+       y="431.6919"
+       id="text149">11</text>
+    <text
+       fill="#000000"
+       x="62.5"
+       y="431.69189"
+       id="text151">Extensions ready to use</text>
+    <!--MD5=[63702cc8aab62bb73322d7e311a61339]
+@startuml
+autonumber
+
+actor User as user
+participant "VS Code" as vscode
+participant "VS Code Extensions" as vscode_ext
+participant "User Extensions" as user_ext
+user -> vscode: Launch application
+vscode -> vscode: Fire '*' Activation Event
+vscode -> vscode_ext : Activate "built-in" VS Code extensions that have '*' Activation Event registered such as Git, Emmet, and Github
+vscode_ext - -> vscode: VS Code extensions loaded
+vscode -> user_ext : Activate user VS Code extensions that have '*' Activation Event registered such as ESLint, GitLens, and Live Server
+user_ext - -> vscode: User extensions loaded
+vscode - -> user: Application loaded and ready to use
+vscode -> vscode: Fire 'onStartUpFinished' Activation Event
+vscode -> user_ext: Activate user extensions that have 'onStartUpFinished' Activation Event registered (Prettier..etc)
+user_ext - -> vscode: User extensions loaded
+vscode - -> user: Extensions active and ready to use
+@enduml
+
+PlantUML version 1.2020.19beta2(Unknown compile time)
+(GPL source distribution)
+Java Runtime: Java(TM) SE Runtime Environment
+JVM: Java HotSpot(TM) 64-Bit Server VM
+Default Encoding: UTF-8
+Language: en
+Country: US
+-->
+  </g>
+</svg>

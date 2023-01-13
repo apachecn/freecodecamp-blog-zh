@@ -1,0 +1,703 @@
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+        <meta charset="utf-8" />
+        <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+        
+        
+            <title>Developer News | 404 - Page not found</title>
+        
+        <meta name="HandheldFriendly" content="True" />
+        <meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+        <link rel="preconnect" href="https://fonts.googleapis.com">
+        <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+        
+            <link rel="preload" as="style" onload="this.onload=null;this.rel='stylesheet'" href="https://fonts.googleapis.com/css2?family=Lato:ital,wght@0,300;0,400;0,700;1,400&family=Roboto+Mono:wght@400;700&display=swap">
+        
+
+        
+        
+        
+
+        
+        <link rel="preload" as="style" onload="this.onload=null;this.rel='stylesheet'" href="/news/assets/css/global-26e2f3cde9.css" />
+        <link rel="stylesheet" type="text/css" href="/news/assets/css/screen-5a4f9d5c91.css" />
+        <link rel="stylesheet" type="text/css" href="/news/assets/css/search-bar-124f5f949c.css" />
+
+        
+        <script defer src="https://cdn.freecodecamp.org/news-assets/algolia/algoliasearch-3-33-0/algoliasearch.min.js"></script>
+        <script defer src="https://cdn.freecodecamp.org/news-assets/algolia/autocomplete-0-36-0/autocomplete.min.js"></script>
+
+        
+        <script defer src="https://cdn.freecodecamp.org/news-assets/dayjs/1.10.4/dayjs.min.js"></script>
+        <script defer src="https://cdn.freecodecamp.org/news-assets/dayjs/1.10.4/localizedFormat.min.js"></script>
+        <script defer src="https://cdn.freecodecamp.org/news-assets/dayjs/1.10.4/relativeTime.min.js"></script>
+
+        
+        
+            <script defer src="https://cdn.freecodecamp.org/news-assets/dayjs/1.10.4/locale/en.min.js"></script>
+        
+
+        
+        <script>let client,index;document.addEventListener("DOMContentLoaded",(()=>{client=algoliasearch("QMJYL5WYTI","89770b24481654192d7a5c402c6ad9a0"),index=client.initIndex("news")})),document.addEventListener("DOMContentLoaded",(()=>{const e=window.screen.width,t=window.screen.height,n=e>=767&&t>=768?8:5,o=document.getElementById("search-form"),s=document.getElementById("search-input"),a=document.getElementById("dropdown-container");let i,d,c;s.addEventListener("input",(e=>{i=e.target.value})),o.addEventListener("submit",(e=>{e.preventDefault(),function(){if(d=document.getElementsByClassName("aa-cursor")[0],d&&i){const e=d.querySelector("a").href;window.location.assign(e)}else!d&&i&&c&&window.location.assign(`https://www.freecodecamp.org/news/search?query=${i}`)}()}));const l=autocomplete("#search-input",{hint:!1,keyboardShortcuts:["s",191],openOnFocus:!0,appendTo:a,debug:!0},[{source:autocomplete.sources.hits(index,{hitsPerPage:n}),debounce:250,templates:{suggestion:e=>(c=!0,`\n            <a href="${e.url}">\n              <div class="algolia-result">\n                <span>${e._highlightResult.title.value}</span>\n              </div>\n            </a>\n          `),empty:()=>(c=!1,'\n            <div class="aa-suggestion footer-suggestion no-hits-footer">\n              <div class="algolia-result">\n                <span>\n                  No tutorials found\n                </span>\n              </div>\n            </div>\n          '),footer:e=>{if(!e.isEmpty)return`\n              <div class="aa-suggestion footer-suggestion">\n                <a id="algolia-footer-selector" href="https://www.freecodecamp.org/news/search?query=${i}">\n                  <div class="algolia-result algolia-footer">\n                    See all results for ${i}\n                  </div>\n                </a>\n              </div>\n            `}}}]).on("autocomplete:selected",((e,t,n,o)=>{d=t?t.url:`https://www.freecodecamp.org/news/search?query=${i}`,"click"!==o.selectionMethod&&"tabKey"!==o.selectionMethod&&c&&window.location.assign(d)}));document.addEventListener("click",(e=>{e.target!==s&&l.autocomplete.close()}))})),document.addEventListener("DOMContentLoaded",(()=>{dayjs.extend(dayjs_plugin_localizedFormat),dayjs.extend(dayjs_plugin_relativeTime),dayjs.locale("en")}));const isAuthenticated=document.cookie.split(";").some((e=>e.trim().startsWith("jwt_access_token="))),isDonor=document.cookie.split(";").some((e=>e.trim().startsWith("isDonor=true")));</script>
+
+        
+        
+        
+
+        
+        
+        
+
+        
+        
+
+        <link rel="icon" href="https://cdn.freecodecamp.org/universal/favicons/favicon.ico" type="image/png">
+        
+        
+            <link rel="canonical" href="https://www.freecodecamp.org/news/404.html">
+        
+        <meta name="referrer" content="no-referrer-when-downgrade">
+
+        
+
+        
+            
+            <meta property="og:site_name" content="freeCodeCamp.org">
+            <meta property="og:type" content="website">
+            <meta property="og:title" content="freeCodeCamp.org">
+            <meta property="og:description" content="Browse thousands of programming tutorials written by experts. Learn Web Development, Data Science, DevOps, Security, and get developer career advice.">
+            <meta property="og:url" content="https://www.freecodecamp.org/news/404.html">
+            <meta property="og:image" content="https://cdn.freecodecamp.org/platform/universal/fcc_meta_1920X1080-indigo.png">
+            <meta property="article:publisher" content="https://www.facebook.com/freecodecamp">
+
+            
+            <meta name="twitter:card" content="summary_large_image">
+            <meta name="twitter:title" content="freeCodeCamp.org">
+            <meta name="twitter:description" content="Browse thousands of programming tutorials written by experts. Learn Web Development, Data Science, DevOps, Security, and get developer career advice.">
+            <meta name="twitter:url" content="https://www.freecodecamp.org/news/404.html">
+            <meta name="twitter:image" content="https://cdn.freecodecamp.org/platform/universal/fcc_meta_1920X1080-indigo.png">
+            <meta name="twitter:site" content="@freecodecamp">
+
+            <meta property="og:image:width" content="1920">
+            <meta property="og:image:height" content="1080">
+        
+
+        
+        
+
+        <meta name="generator" content="Eleventy">
+        <link rel="alternate" type="application/rss+xml" title="freeCodeCamp.org" href="https://www.freecodecamp.org/news/rss/">
+
+        <link rel="preconnect" href="https://fonts.gstatic.com" />
+
+<!-- Web Monetization (https://webmonetization.org/) -->
+<meta name="monetization" content="$ilp.uphold.com/LJmbPn7WD4JB">
+<!-- end Web Monetization -->
+
+<!-- dataLayer setup -->
+<script>
+window.dataLayer = window.dataLayer || [];
+</script>
+<!-- End dataLayer setup -->
+
+<!-- Google Tag Manager -->
+<script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+})(window,document,'script','dataLayer','GTM-5D6RKKP');</script>
+<!-- End Google Tag Manager -->
+
+
+<meta name="google-site-verification" content="b4tITLzEeeZGEpvD4mGNf3khKM4fvqejQaz9SYBQP8E" />
+
+        
+    </head>
+    
+    
+        <body class="home-template">
+    
+        <div class="site-wrapper">
+            <nav class="site-nav nav-padding">
+    <div class="site-nav-left">
+        
+<form id="search-form" data-test-label="search-bar">
+    <div role="search" class="searchbox__wrapper">
+        <label class="fcc_sr_only" for='search-input'>
+            Search
+        </label>
+        <input type="search" placeholder="
+    Search 9,400+ tutorials
+" id="search-input" />
+        <button type="submit" class="ais-SearchBox-submit">
+            <svg class="ais-SearchBox-submitIcon" xmlns="https://www.w3.org/2000/svg" width="10" height="10" viewBox="0 0 40 40">
+    <path d="M26.804 29.01c-2.832 2.34-6.465 3.746-10.426 3.746C7.333 32.756 0 25.424 0 16.378 0 7.333 7.333 0 16.378 0c9.046 0 16.378 7.333 16.378 16.378 0 3.96-1.406 7.594-3.746 10.426l10.534 10.534c.607.607.61 1.59-.004 2.202-.61.61-1.597.61-2.202.004L26.804 29.01zm-10.426.627c7.323 0 13.26-5.936 13.26-13.26 0-7.32-5.937-13.257-13.26-13.257C9.056 3.12 3.12 9.056 3.12 16.378c0 7.323 5.936 13.26 13.258 13.26z" />
+</svg>
+
+            <span class="fcc_sr_only">Submit your search query</span>
+        </button>
+        <div id='dropdown-container'></div>
+    </div>
+</form>
+
+    </div>
+    <div class="site-nav-middle">
+        <a class="site-nav-logo" href="https://www.freecodecamp.org/news" data-test-label="site-nav-logo"><img src="https://cdn.freecodecamp.org/platform/universal/fcc_primary.svg" alt="freeCodeCamp.org" /></a>
+    </div>
+    <div class="site-nav-right">
+        <div class="nav-group">
+            <a
+                class="nav-forum"
+                id="nav-forum"
+                rel="noopener noreferrer"
+                href="https://forum.freecodecamp.org/"
+                target="_blank"
+                data-test-label="forum-button"
+            >Forum</a>
+            <a
+                class="toggle-button-nav"
+                id="nav-donate"
+                rel="noopener noreferrer"
+                href="https://www.freecodecamp.org/donate/"
+                target="_blank"
+                data-test-label="donate-button"
+            >Donate</a>
+        </div>
+    </div>
+</nav>
+
+
+            
+            <a class="banner" id="banner" data-test-label="banner" rel="noopener noreferrer" target="_blank">
+    <p id="banner-text"></p>
+</a>
+
+
+    
+    <script>document.addEventListener("DOMContentLoaded",(()=>{const e=document.getElementById("banner"),t=document.getElementById("banner-text");isAuthenticated?(t.innerHTML="Support our charity and our mission. <span>Donate to freeCodeCamp.org</span>.",e.href="https://www.freecodecamp.org/donate",e.setAttribute("text-variation","authenticated")):isDonor?(t.innerHTML="Thank you for supporting freeCodeCamp through <span>your donations</span>.",e.href="https://www.freecodecamp.org/news/how-to-donate-to-free-code-camp/",e.setAttribute("text-variation","donor")):(t.innerHTML="Learn to code — <span>free 3,000-hour curriculum</span>",e.href="https://www.freecodecamp.org/",e.setAttribute("text-variation","default"))}));</script>
+
+
+            <div id="error-message"></div>
+
+            
+    <div class="error-template">
+        <main id="site-main" class="site-main outer">
+            <div class="inner">
+                <section class="error-message" data-test-label="error-message">
+                    <h1 class="error-code">404</h1>
+                    <p class="error-description">Page not found</p>
+                    <a class="error-link" href="https://www.freecodecamp.org/news">Go to the front page →</a>
+                </section>
+            </div>
+        </main>
+        <aside class="outer">
+            <div class="inner">
+                <div class="post-feed">
+                    
+                        
+    
+    
+
+    <article class="post-card" data-test-label="post-card">
+        
+            <a class="post-card-image-link" href="/news/speed-up-performance-in-laravel-valet/" aria-label="Laravel Valet Performance – How to Prevent 504 Errors and Speed Up Valet">
+                
+    <img
+      srcset="https://www.freecodecamp.org/news/content/images/size/w300/2023/01/pexels-jonathan-petersson-399636.jpg 300w,https://www.freecodecamp.org/news/content/images/size/w600/2023/01/pexels-jonathan-petersson-399636.jpg 600w,https://www.freecodecamp.org/news/content/images/size/w1000/2023/01/pexels-jonathan-petersson-399636.jpg 1000w,https://www.freecodecamp.org/news/content/images/size/w2000/2023/01/pexels-jonathan-petersson-399636.jpg 2000w"
+      sizes="(max-width: 360px) 300px, (max-width: 655px) 600px, (max-width: 767px) 1000px, (min-width: 768px) 300px, 92vw"
+      src="https://www.freecodecamp.org/news/content/images/size/w2000/2023/01/pexels-jonathan-petersson-399636.jpg"
+      class="post-card-image"
+      alt="Laravel Valet Performance – How to Prevent 504 Errors and Speed Up Valet"
+      width="2000"
+      height="1330"
+      onerror="this.style.display='none'"
+      
+      data-test-label="feature-image"
+    />
+  
+            </a>
+        
+        <div class="post-card-content">
+            <div class="post-card-content-link">
+                <header class="post-card-header">
+                    
+                        <span class="post-card-tags">
+                            <a dir="ltr"  href="/news/tag/laravel/">
+                                #Laravel
+                            </a>
+                        </span>
+                    
+                    <h2 class="post-card-title">
+                        <a href="/news/speed-up-performance-in-laravel-valet/">
+                            Laravel Valet Performance – How to Prevent 504 Errors and Speed Up Valet
+                        </a>
+                    </h2>
+                </header>
+            </div>
+            <footer class="post-card-meta">
+                
+                    <ul class="author-list" data-test-label="author-list">
+                        
+                            
+    
+    
+    
+    
+    <li class="author-list-item" data-test-label="author-list-item">
+        <a href="/news/author/bigdevlarry/" class="static-avatar">
+            
+                
+    <img
+      srcset="https://www.freecodecamp.org/news/content/images/size/w30/2021/04/WhatsApp-Image-2021-01-04-at-01.55.35-1.jpeg 30w"
+      sizes="30px"
+      src="https://www.freecodecamp.org/news/content/images/size/w30/2021/04/WhatsApp-Image-2021-01-04-at-01.55.35-1.jpeg"
+      class="author-profile-image"
+      alt="Sule-Balogun Olanrewaju Ganiu"
+      width="1080"
+      height="771"
+      onerror="this.style.display='none'"
+      
+      data-test-label="profile-image"
+    />
+  
+            
+        </a>
+        <span class="meta-content">
+            <a class="meta-item" href="/news/author/bigdevlarry/" data-test-label="profile-link">
+                
+                    Sule-Balogun Olanrewaju Ganiu
+                
+            </a>
+            <time class="meta-item" datetime="Mon Jan 02 2023 23:12:30 GMT+0000 (Coordinated Universal Time)" data-test-label="post-published-time">
+                11 hours ago
+            </time>
+        </span>
+    </li>
+
+                        
+                    </ul>
+                
+            </footer>
+        </div>
+    </article>
+
+                    
+                        
+    
+    
+
+    <article class="post-card" data-test-label="post-card">
+        
+            <a class="post-card-image-link" href="/news/how-to-learn-react-in-2023/" aria-label="How to Learn React in 2023">
+                
+    <img
+      srcset="https://www.freecodecamp.org/news/content/images/size/w300/2022/12/learn-react-2023.png 300w,https://www.freecodecamp.org/news/content/images/size/w600/2022/12/learn-react-2023.png 600w,https://www.freecodecamp.org/news/content/images/size/w1000/2022/12/learn-react-2023.png 1000w,https://www.freecodecamp.org/news/content/images/size/w2000/2022/12/learn-react-2023.png 2000w"
+      sizes="(max-width: 360px) 300px, (max-width: 655px) 600px, (max-width: 767px) 1000px, (min-width: 768px) 300px, 92vw"
+      src="https://www.freecodecamp.org/news/content/images/size/w2000/2022/12/learn-react-2023.png"
+      class="post-card-image"
+      alt="How to Learn React in 2023"
+      width="1320"
+      height="690"
+      onerror="this.style.display='none'"
+      
+      data-test-label="feature-image"
+    />
+  
+            </a>
+        
+        <div class="post-card-content">
+            <div class="post-card-content-link">
+                <header class="post-card-header">
+                    
+                        <span class="post-card-tags">
+                            <a dir="ltr"  href="/news/tag/react/">
+                                #React
+                            </a>
+                        </span>
+                    
+                    <h2 class="post-card-title">
+                        <a href="/news/how-to-learn-react-in-2023/">
+                            How to Learn React in 2023
+                        </a>
+                    </h2>
+                </header>
+            </div>
+            <footer class="post-card-meta">
+                
+                    <ul class="author-list" data-test-label="author-list">
+                        
+                            
+    
+    
+    
+    
+    <li class="author-list-item" data-test-label="author-list-item">
+        <a href="/news/author/reed/" class="static-avatar">
+            
+                
+    <img
+      srcset="https://www.freecodecamp.org/news/content/images/size/w30/2021/05/reed-barger-gravatar.jpeg 30w"
+      sizes="30px"
+      src="https://www.freecodecamp.org/news/content/images/size/w30/2021/05/reed-barger-gravatar.jpeg"
+      class="author-profile-image"
+      alt="Reed Barger"
+      width="250"
+      height="250"
+      onerror="this.style.display='none'"
+      
+      data-test-label="profile-image"
+    />
+  
+            
+        </a>
+        <span class="meta-content">
+            <a class="meta-item" href="/news/author/reed/" data-test-label="profile-link">
+                
+                    Reed Barger
+                
+            </a>
+            <time class="meta-item" datetime="Mon Jan 02 2023 22:59:24 GMT+0000 (Coordinated Universal Time)" data-test-label="post-published-time">
+                11 hours ago
+            </time>
+        </span>
+    </li>
+
+                        
+                    </ul>
+                
+            </footer>
+        </div>
+    </article>
+
+                    
+                        
+    
+    
+
+    <article class="post-card" data-test-label="post-card">
+        
+            <a class="post-card-image-link" href="/news/learn-css-by-creating-the-figma-logo-in-pure-css/" aria-label="Learn CSS by Building the Figma Logo in Pure CSS">
+                
+    <img
+      srcset="https://www.freecodecamp.org/news/content/images/size/w300/2022/12/Learn-CSS-Create-The-Figma-Logo-3.png 300w,https://www.freecodecamp.org/news/content/images/size/w600/2022/12/Learn-CSS-Create-The-Figma-Logo-3.png 600w,https://www.freecodecamp.org/news/content/images/size/w1000/2022/12/Learn-CSS-Create-The-Figma-Logo-3.png 1000w,https://www.freecodecamp.org/news/content/images/size/w2000/2022/12/Learn-CSS-Create-The-Figma-Logo-3.png 2000w"
+      sizes="(max-width: 360px) 300px, (max-width: 655px) 600px, (max-width: 767px) 1000px, (min-width: 768px) 300px, 92vw"
+      src="https://www.freecodecamp.org/news/content/images/size/w2000/2022/12/Learn-CSS-Create-The-Figma-Logo-3.png"
+      class="post-card-image"
+      alt="Learn CSS by Building the Figma Logo in Pure CSS"
+      width="1600"
+      height="840"
+      onerror="this.style.display='none'"
+      
+      data-test-label="feature-image"
+    />
+  
+            </a>
+        
+        <div class="post-card-content">
+            <div class="post-card-content-link">
+                <header class="post-card-header">
+                    
+                        <span class="post-card-tags">
+                            <a dir="ltr"  href="/news/tag/css/">
+                                #CSS
+                            </a>
+                        </span>
+                    
+                    <h2 class="post-card-title">
+                        <a href="/news/learn-css-by-creating-the-figma-logo-in-pure-css/">
+                            Learn CSS by Building the Figma Logo in Pure CSS
+                        </a>
+                    </h2>
+                </header>
+            </div>
+            <footer class="post-card-meta">
+                
+                    <ul class="author-list" data-test-label="author-list">
+                        
+                            
+    
+    
+    
+    
+    <li class="author-list-item" data-test-label="author-list-item">
+        <a href="/news/author/ratracegrad/" class="static-avatar">
+            
+                
+    <img
+      srcset="https://www.freecodecamp.org/news/content/images/size/w30/2021/05/jennifer-bland-gravatar.jpeg 30w"
+      sizes="30px"
+      src="https://www.freecodecamp.org/news/content/images/size/w30/2021/05/jennifer-bland-gravatar.jpeg"
+      class="author-profile-image"
+      alt="Jennifer Bland"
+      width="250"
+      height="250"
+      onerror="this.style.display='none'"
+      
+      data-test-label="profile-image"
+    />
+  
+            
+        </a>
+        <span class="meta-content">
+            <a class="meta-item" href="/news/author/ratracegrad/" data-test-label="profile-link">
+                
+                    Jennifer Bland
+                
+            </a>
+            <time class="meta-item" datetime="Mon Jan 02 2023 22:39:24 GMT+0000 (Coordinated Universal Time)" data-test-label="post-published-time">
+                12 hours ago
+            </time>
+        </span>
+    </li>
+
+                        
+                    </ul>
+                
+            </footer>
+        </div>
+    </article>
+
+                    
+                        
+    
+    
+
+    <article class="post-card" data-test-label="post-card">
+        
+            <a class="post-card-image-link" href="/news/how-to-protect-your-privacy-online/" aria-label="How to Protect Your Privacy Online – Five Useful Tools">
+                
+    <img
+      srcset="https://www.freecodecamp.org/news/content/images/size/w300/2023/01/security-tools.png 300w,https://www.freecodecamp.org/news/content/images/size/w600/2023/01/security-tools.png 600w,https://www.freecodecamp.org/news/content/images/size/w1000/2023/01/security-tools.png 1000w,https://www.freecodecamp.org/news/content/images/size/w2000/2023/01/security-tools.png 2000w"
+      sizes="(max-width: 360px) 300px, (max-width: 655px) 600px, (max-width: 767px) 1000px, (min-width: 768px) 300px, 92vw"
+      src="https://www.freecodecamp.org/news/content/images/size/w2000/2023/01/security-tools.png"
+      class="post-card-image"
+      alt="How to Protect Your Privacy Online – Five Useful Tools"
+      width="1600"
+      height="1078"
+      onerror="this.style.display='none'"
+      
+      data-test-label="feature-image"
+    />
+  
+            </a>
+        
+        <div class="post-card-content">
+            <div class="post-card-content-link">
+                <header class="post-card-header">
+                    
+                        <span class="post-card-tags">
+                            <a dir="ltr"  href="/news/tag/privacy/">
+                                #Privacy
+                            </a>
+                        </span>
+                    
+                    <h2 class="post-card-title">
+                        <a href="/news/how-to-protect-your-privacy-online/">
+                            How to Protect Your Privacy Online – Five Useful Tools
+                        </a>
+                    </h2>
+                </header>
+            </div>
+            <footer class="post-card-meta">
+                
+                    <ul class="author-list" data-test-label="author-list">
+                        
+                            
+    
+    
+    
+    
+    <li class="author-list-item" data-test-label="author-list-item">
+        <a href="/news/author/manishmshiva/" class="static-avatar">
+            
+                
+    <img
+      srcset="https://www.freecodecamp.org/news/content/images/size/w30/2022/11/dp.png 30w"
+      sizes="30px"
+      src="https://www.freecodecamp.org/news/content/images/size/w30/2022/11/dp.png"
+      class="author-profile-image"
+      alt="Manish Shivanandhan"
+      width="500"
+      height="500"
+      onerror="this.style.display='none'"
+      
+      data-test-label="profile-image"
+    />
+  
+            
+        </a>
+        <span class="meta-content">
+            <a class="meta-item" href="/news/author/manishmshiva/" data-test-label="profile-link">
+                
+                    Manish Shivanandhan
+                
+            </a>
+            <time class="meta-item" datetime="Mon Jan 02 2023 22:33:08 GMT+0000 (Coordinated Universal Time)" data-test-label="post-published-time">
+                12 hours ago
+            </time>
+        </span>
+    </li>
+
+                        
+                    </ul>
+                
+            </footer>
+        </div>
+    </article>
+
+                    
+                </div>
+            </div>
+        </aside>
+    </div>
+
+
+            
+
+<footer class="site-footer">
+    <div class="footer-container">
+        <div class="footer-top">
+            <div class="footer-desc-col">
+                <p data-test-label="tax-exempt-status">freeCodeCamp is a donor-supported tax-exempt 501(c)(3) charity organization (United States Federal Tax Identification Number: 82-0779546)</p>
+                <p data-test-label="mission-statement">Our mission: to help people learn to code for free. We accomplish this by creating thousands of videos, articles, and interactive coding lessons - all freely available to the public. We also have thousands of freeCodeCamp study groups around the world.</p>
+                <p data-test-label="donation-initiatives">Donations to freeCodeCamp go toward our education initiatives, and help pay for servers, services, and staff.</p>
+                <p class="footer-donation" data-test-label="donate-text">
+                    You can <a href="https://www.freecodecamp.org/donate/" class="inline" rel="noopener noreferrer" target="_blank" >make a tax-deductible donation here</a>.
+                </p>
+            </div>
+            <div class="trending-guides" data-test-label="trending-guides">
+                <div class="col-header">Trending Guides</div>
+                <div class="trending-guides-row">
+                    <div class="footer-col footer-col-1">
+                        <a href="https://www.freecodecamp.org/news/javascript-string-comparison-how-to-compare-strings-in-js/" rel="noopener noreferrer" target="_blank">Compare Strings in JS
+                        </a>
+                        <a href="https://www.freecodecamp.org/news/what-is-a-dns-server/" rel="noopener noreferrer" target="_blank">What is a DNS Server?
+                        </a>
+                        <a href="https://www.freecodecamp.org/news/object-object-in-javascript-meaning-in-js/" rel="noopener noreferrer" target="_blank">[object, object] in JS
+                        </a>
+                        <a href="https://www.freecodecamp.org/news/how-to-become-a-frontend-developer/" rel="noopener noreferrer" target="_blank">Become a Front End Dev
+                        </a>
+                        <a href="https://www.freecodecamp.org/news/what-is-a-domain-name-example/" rel="noopener noreferrer" target="_blank">What is a Domain Name?
+                        </a>
+                        <a href="https://www.freecodecamp.org/news/binary-search-in-python-with-examples/" rel="noopener noreferrer" target="_blank">Binary Search in Python
+                        </a>
+                        <a href="https://www.freecodecamp.org/news/getline-in-cpp-cin-getline-function-example/" rel="noopener noreferrer" target="_blank">C++ getline() function
+                        </a>
+                        <a href="https://www.freecodecamp.org/news/python-else-if-statement-example/" rel="noopener noreferrer" target="_blank">Python Else-If Statement
+                        </a>
+                        <a href="https://www.freecodecamp.org/news/how-to-check-if-an-object-has-a-key-in-javascript/" rel="noopener noreferrer" target="_blank">JavaScript Key in Object
+                        </a>
+                        <a href="https://www.freecodecamp.org/news/how-to-call-a-function-in-python-def-syntax-example/" rel="noopener noreferrer" target="_blank">Call a Function in Python
+                        </a>
+                    </div>
+                    <div class="footer-col footer-col-2">
+                        <a href="https://www.freecodecamp.org/news/html-symbols-html-icon-and-entity-code-list/" rel="noopener noreferrer" target="_blank">HTML Symbols
+                        </a>
+                        <a href="https://www.freecodecamp.org/news/what-is-ftp-file-transfer-protocol-and-ftp-server-meaning/" rel="noopener noreferrer" target="_blank">What is FTP?
+                        </a>
+                        <a href="https://www.freecodecamp.org/news/python-find-how-to-search-for-a-substring-in-a-string/" rel="noopener noreferrer" target="_blank">Python find()
+                        </a>
+                        <a href="https://www.freecodecamp.org/news/how-to-learn-the-c-programming-language/" rel="noopener noreferrer" target="_blank">How to Learn C++
+                        </a>
+                        <a href="https://www.freecodecamp.org/news/if-statement-in-c-how-to-use-if-else-statements-in-the-c-programming-language/" rel="noopener noreferrer" target="_blank">If Statement in C
+                        </a>
+                        <a href="https://www.freecodecamp.org/news/python-attributes-class-and-instance-attribute-examples/" rel="noopener noreferrer" target="_blank">Python Attributes
+                        </a>
+                        <a href="https://www.freecodecamp.org/news/strftime-python-datetime-timestamp-string/" rel="noopener noreferrer" target="_blank">Python strftime()
+                        </a>
+                        <a href="https://www.freecodecamp.org/news/how-to-learn-python/" rel="noopener noreferrer" target="_blank">How to Learn Python
+                        </a>
+                        <a href="https://www.freecodecamp.org/news/python-list-sorting-how-to-order-lists-in-python/" rel="noopener noreferrer" target="_blank">Python List Sorting
+                        </a>
+                        <a href="https://www.freecodecamp.org/news/while-loops-in-python-while-true-loop-statement-example/" rel="noopener noreferrer" target="_blank">While Loops in Python
+                        </a>
+                    </div>
+                    <div class="footer-col footer-col-3">
+                        <div class="footer-left">
+                            <a href="https://www.freecodecamp.org/news/how-to-save-and-exit-nano-in-terminal-nano-quit-command/" rel="noopener noreferrer" target="_blank">How to Save and Exit Nano
+                            </a>
+                            <a href="https://www.freecodecamp.org/news/react-interview-questions-and-answers/" rel="noopener noreferrer" target="_blank">React Interview Questions
+                            </a>
+                            <a href="https://www.freecodecamp.org/news/google-docs-strikethrough-how-to-cross-out-text-in-google-docs/" rel="noopener noreferrer" target="_blank">Google Docs Strikethrough
+                            </a>
+                            <a href="https://www.freecodecamp.org/news/java-random-number-generator-how-to-generate-with-math-random-and-convert-to-integer/" rel="noopener noreferrer" target="_blank">Make Random Number Java
+                            </a>
+                            <a href="https://www.freecodecamp.org/news/how-to-use-vlookup-in-excel/" rel="noopener noreferrer" target="_blank">How to Use VLOOKUP in Excel
+                            </a>
+                        </div>
+
+                        <div class="footer-right">
+                            <a href="https://www.freecodecamp.org/news/how-to-iterate-over-objects-in-javascript/" rel="noopener noreferrer" target="_blank">Loop Through an Object in JS
+                            </a>
+                            <a href="https://www.freecodecamp.org/news/what-does-double-slash-mean-in-python/" rel="noopener noreferrer" target="_blank">What Does // Mean in Python?
+                            </a>
+                            <a href="https://www.freecodecamp.org/news/charat-in-java-how-to-use-the-java-charat-method-2/" rel="noopener noreferrer" target="_blank">How to Use the Java charAt()
+                            </a>
+                            <a href="https://www.freecodecamp.org/news/how-to-center-a-div-with-css/" rel="noopener noreferrer" target="_blank">How to Center a Div with CSS
+                            </a>
+                            <a href="https://www.freecodecamp.org/news/loading-a-json-file-in-python-how-to-read-and-parse-json/" rel="noopener noreferrer" target="_blank">Loading JSON in Python
+                            </a>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+        <div class='footer-bottom'>
+            <div class="col-header" data-test-label="our-nonprofit">Our Charity</div>
+            <div class="footer-divider"></div>
+            <div class="our-nonprofit">
+                <a href="https://www.freecodecamp.org/news/about/" rel="noopener noreferrer" target="_blank" data-test-label="about">
+                    About
+                </a>
+                <a href="https://www.linkedin.com/school/free-code-camp/people/" rel="noopener noreferrer" target="_blank" data-test-label="alumni">
+                    Alumni Network
+                </a>
+                <a href="https://github.com/freeCodeCamp/" rel="noopener noreferrer" target="_blank" data-test-label="open-source">
+                    Open Source
+                </a>
+                <a href="https://www.freecodecamp.org/news/shop/" rel="noopener noreferrer" target="_blank" data-test-label="shop">
+                    Shop
+                </a>
+                <a href="https://www.freecodecamp.org/news/support/" rel="noopener noreferrer" target="_blank" data-test-label="support">
+                    Support
+                </a>
+                <a href="https://www.freecodecamp.org/news/sponsors/" rel="noopener noreferrer" target="_blank" data-test-label="sponsors">
+                    Sponsors
+                </a>
+                <a href="https://www.freecodecamp.org/news/academic-honesty-policy/" rel="noopener noreferrer" target="_blank" data-test-label="honesty">
+                    Academic Honesty
+                </a>
+                <a href="https://www.freecodecamp.org/news/code-of-conduct/" rel="noopener noreferrer" target="_blank" data-test-label="coc">
+                    Code of Conduct
+                </a>
+                <a href="https://www.freecodecamp.org/news/privacy-policy/" rel="noopener noreferrer" target="_blank" data-test-label="privacy">
+                    Privacy Policy
+                </a>
+                <a href="https://www.freecodecamp.org/news/terms-of-service/" rel="noopener noreferrer" target="_blank" data-test-label="tos">
+                    Terms of Service
+                </a>
+                <a href="https://www.freecodecamp.org/news/copyright-policy/" rel="noopener noreferrer" target="_blank" data-test-label="copyright">
+                    Copyright Policy
+                </a>
+            </div>
+        </div>
+    </div>
+</footer>
+
+        </div>
+
+        
+        
+        
+
+        <!-- Google Tag Manager (noscript) -->
+<noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-5D6RKKP"
+height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+<!-- End Google Tag Manager (noscript) -->
+
+        
+    <script defer src="https://static.cloudflareinsights.com/beacon.min.js/vaafb692b2aea4879b33c060e79fe94621666317369993" integrity="sha512-0ahDYl866UMhKuYcW078ScMalXqtFJggm7TmlUtp0UlD4eQk0Ixfnm5ykXKvGJNFjLMoortdseTfsRT8oCfgGA==" data-cf-beacon='{"rayId":"783b0c643aee1234","token":"bdb993c6dde44e178aabd9555e75e4f4","version":"2022.11.3","si":100}' crossorigin="anonymous"></script>
+</body>
+</html>

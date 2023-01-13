@@ -1,0 +1,89 @@
+<!DOCTYPE html>
+<html lang="en" class="astro-6BSPVJEP">
+  <head>
+    <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="apple-mobile-web-app-capable" content="yes">
+    <meta name="description" content="flaviocopes.com">
+    <meta property="og:description" content="flaviocopes.com">
+    <meta name="author" content="Flavio Copes">
+    <meta name="HandheldFriendly" content="True">
+    <meta name="MobileOptimized" content="320">
+    <link rel="alternate" type="application/rss+xml" title="RSS Feed" href="/rss.xml">
+    <meta content="width=device-width, initial-scale=1" name="viewport">
+    <meta property="og:title" content="flaviocopes.com">
+    <meta property="og:type" content="website">
+    <meta property="og:url" content="https://flaviocopes.com">
+
+    <meta property="og:image" content="https://flaviocopes.com/img/avatar.png">
+    <meta name="twitter:image" content="https://flaviocopes.com/img/avatar.png">
+
+    <meta name="twitter:creator" content="@flaviocopes">
+    <meta name="twitter:site" content="@flaviocopes">
+    <meta name="twitter:card" content="summary_large_image">
+    <link rel="apple-touch-icon" sizes="180x180" href="/img/apple-touch-icon.png">
+    <link rel="icon" type="image/png" sizes="96x96" href="/img/favicon-96x96.png">
+    <link rel="icon" type="image/png" sizes="32x32" href="/img/favicon-32x32.png">
+    <link rel="icon" type="image/png" sizes="16x16" href="/img/favicon-16x16.png">
+    
+    <title>flaviocopes.com</title>
+
+    
+  <link rel="stylesheet" href="/assets/404.5806620f.css" />
+<link rel="stylesheet" href="/assets/404.9f55a86e.css" /></head>
+  <body class="text-[#242424] dark:text-white dark:bg-[#161616] px-4 md:px-10 astro-6BSPVJEP">
+    <div class="max-w-2xl mx-auto">
+    <div>
+      <h1 class="text-5xl font-bold pt-10">
+        Page not found 😑
+      </h1>
+
+      <h2 class="mt-10"></h2>
+      <p><a href="/" class="underline"><strong>Go to the homepage →</strong></a></p>
+    </div>
+
+    <h2 class="mb-5 mt-10">
+  Download my <b>FREE</b> programming books 👇🏼
+</h2>
+<div class="tags flex flex-wrap pb-10 gap-2">
+  <a href="https://thevalleyofcode.com/js/" class="bg-black dark:bg-white text-white dark:text-black block p-3 no-underline">
+        JavaScript
+      </a><a href="https://thevalleyofcode.com/python/" class="bg-black dark:bg-white text-white dark:text-black block p-3 no-underline">
+        Python
+      </a><a href="https://thevalleyofcode.com/go/" class="bg-black dark:bg-white text-white dark:text-black block p-3 no-underline">
+        Go
+      </a><a href="https://thevalleyofcode.com/c/" class="bg-black dark:bg-white text-white dark:text-black block p-3 no-underline">
+        C
+      </a><a href="https://thevalleyofcode.com/php/" class="bg-black dark:bg-white text-white dark:text-black block p-3 no-underline">
+        PHP
+      </a><a href="https://thevalleyofcode.com/swift/" class="bg-black dark:bg-white text-white dark:text-black block p-3 no-underline">
+        Swift
+      </a><a href="https://thevalleyofcode.com/html/" class="bg-black dark:bg-white text-white dark:text-black block p-3 no-underline">
+        HTML
+      </a><a href="https://thevalleyofcode.com/css/" class="bg-black dark:bg-white text-white dark:text-black block p-3 no-underline">
+        CSS
+      </a><a href="https://thevalleyofcode.com/react/" class="bg-black dark:bg-white text-white dark:text-black block p-3 no-underline">
+        React
+      </a><a href="https://thevalleyofcode.com/node/" class="bg-black dark:bg-white text-white dark:text-black block p-3 no-underline">
+        Node.js
+      </a><a href="https://thevalleyofcode.com/svelte/" class="bg-black dark:bg-white text-white dark:text-black block p-3 no-underline">
+        Svelte
+      </a><a href="https://thevalleyofcode.com/next/" class="bg-black dark:bg-white text-white dark:text-black block p-3 no-underline">
+        Next.js
+      </a><a href="https://thevalleyofcode.com/linux/" class="bg-black dark:bg-white text-white dark:text-black block p-3 no-underline">
+        Linux
+      </a><a href="https://thevalleyofcode.com/express/" class="bg-black dark:bg-white text-white dark:text-black block p-3 no-underline">
+        Express.js
+      </a><a href="https://thevalleyofcode.com/sql/" class="bg-black dark:bg-white text-white dark:text-black block p-3 no-underline">
+        SQL
+      </a>
+</div>
+    <div class="mt-20 pb-20">
+  &copy; <script>
+    2022
+  </script> Flavio Copes <img src="/img/avatar.png" alt="Flavio Copes" class="inline w-5 m-0 -mt-2"> made in Italy 🇮🇹 using <img src="https://notiontosite.com/img/notiontosite.png" alt="Notion to Site" class="inline w-5 m-0">
+  <a href="https://notiontosite.com" class="underline">Notion to Site</a>
+</div>
+  </div>
+  </body></html>

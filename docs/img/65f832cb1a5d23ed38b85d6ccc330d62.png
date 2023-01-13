@@ -1,0 +1,18 @@
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <title>404: Not found</title>
+</head>
+<body>
+  <div >
+    <div style="outline:none">
+      <div style="margin:20px">
+        <main>
+          <h1>404: Not Found</h1>
+          <p>You just hit a route that doesn't exist... the sadness.</p>
+        </main>
+      </div>
+    </div>
+  </div>
+</body>
+</html>
